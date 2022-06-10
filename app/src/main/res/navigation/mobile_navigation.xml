@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.applibros20.ui.home.HomeFragment"
+        android:label="@string/home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_read"
+        android:name="com.example.applibros20.ui.read.ReadFragment"
+        android:label="@string/read"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_reading"
+        android:name="com.example.applibros20.ui.reading.ReadingFragment"
+        android:label="@string/reading"
+        tools:layout="@layout/fragment_reading" />
+
+    <fragment
+        android:id="@+id/nav_add_books"
+        android:name="com.example.applibros20.AddFragment"
+        android:label="@string/add_books"
+        tools:layout="@layout/fragment_add" />
+
+    <fragment
+        android:id="@+id/nav_to_read"
+        android:name="com.example.applibros20.ui.to_read.ToReadFragment"
+        android:label="@string/to_read"
+        tools:layout="@layout/fragment_to_read" />
+
+    <fragment
+        android:id="@+id/nav_wish"
+        android:name="com.example.applibros20.ui.wish.WishFragment"
+        android:label="@string/wish"
+        tools:layout="@layout/fragment_wish" />
+
+    <fragment
+        android:id="@+id/searchFragment"
+        android:name="com.example.applibros20.SearchFragment"
+        android:label="@string/search"
+        tools:layout="@layout/fragment_search" />
+
+
+    <fragment
+        android:id="@+id/deleteFragment"
+        android:name="com.example.applibros20.ui.delete.DeleteFragment"
+        android:label="@string/update_delete"
+        tools:layout="@layout/fragment_delete" />
+
+
+
+</navigation>

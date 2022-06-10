@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_read"
+            android:icon="@drawable/check"
+            android:title="@string/read" />
+        <item
+            android:id="@+id/nav_reading"
+            android:icon="@drawable/menu_book"
+            android:title="@string/reading" />
+        <item
+            android:id="@+id/nav_to_read"
+            android:icon="@drawable/awesome"
+            android:title="@string/to_read" />
+        <item
+            android:id="@+id/nav_wish"
+            android:icon="@drawable/favorite_24"
+            android:title="@string/wish" />
+
+        <item
+            android:id="@+id/nav_add_books"
+            android:icon="@drawable/add_circle_outline"
+            android:title="@string/add_books" />
+
+        <item
+            android:id="@+id/searchFragment"
+            android:icon="@drawable/search"
+            android:title="@string/search" />
+
+        <item
+            android:id="@+id/deleteFragment"
+            android:icon="@drawable/setup"
+            android:title="@string/update_delete" />
+
+
+
+    </group>
+</menu>

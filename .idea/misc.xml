@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/drawable/auto_stories.xml" value="0.2985" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/drawable/awesome.xml" value="0.2985" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/drawable/side_nav_bar.xml" value="0.257" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.32857142857142857" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/layout-w936dp/activity_login.xml" value="0.188671875" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/layout/activity_login.xml" value="0.2515625" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/layout/activity_main.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/layout/app_bar_main.xml" value="0.2" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/layout/book_list.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/layout/fragment_account.xml" value="0.1" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/layout/fragment_add.xml" value="0.25" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/layout/fragment_delete.xml" value="0.25" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/layout/fragment_gallery.xml" value="0.28489583333333335" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/layout/fragment_home.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/layout/fragment_nav_to_read.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/layout/fragment_reading.xml" value="0.21822916666666667" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/layout/fragment_search.xml" value="0.25" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/layout/fragment_slideshow.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/layout/fragment_to_read.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/layout/fragment_update.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/layout/fragment_wish.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/layout/fragment_wish2.xml" value="0.21822916666666667" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/layout/nav_header_main.xml" value="0.2947916666666667" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/menu/activity_main_drawer.xml" value="0.2947916666666667" />
+        <entry key="..\:/Users/niada/Dropbox/AppLibros2.0/app/src/main/res/menu/main.xml" value="0.2947916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
